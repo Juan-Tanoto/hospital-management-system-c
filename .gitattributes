@@ -1,0 +1,5 @@
+# Keep data files with LF endings so the program reads them correctly on every OS
+*.txt text eol=lf
+*.c   text eol=lf
+*.h   text eol=lf
+*.png binary

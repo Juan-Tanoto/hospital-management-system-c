@@ -1,0 +1,2 @@
+I001|Paracetamol|50
+I002|Syringe|120

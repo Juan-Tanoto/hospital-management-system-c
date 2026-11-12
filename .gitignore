@@ -1,0 +1,17 @@
+# Build output
+hms
+hms.exe
+*.exe
+*.o
+*.obj
+
+# Runtime files created by the program
+data/temp.txt
+data/*_backup.txt
+data/backup_*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

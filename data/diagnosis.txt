@@ -1,0 +1,5 @@
+diagnosisID|doctorID|patientID|date|diagnosis|summary
+DX001|D001|P001|2026-05-01|Flu|Patient has mild fever and cough. Rest and drink water.
+DX002|D001|P002|2026-05-02|Migraine|Patient reports headache. Given pain relief advice.
+DX003|D002|P003|2026-05-01|Skin Allergy|Patient has skin rash. Prescribed allergy cream.
+DX004|D001|P004|2026-07-10|Flu|Patient has mild fever and cough. Rest and drink water.

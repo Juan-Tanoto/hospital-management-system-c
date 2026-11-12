@@ -1,0 +1,5 @@
+C001|P001|Ali Ahmad|Aircond not working
+C002|P002|Siti Nur|Long waiting time
+C003|P003|Siti Moh|Short waiting time
+C004|P001|Daniel Lim|tes
+C005|P001|Daniel Lim|Doctor is late
